@@ -50,7 +50,7 @@
     "d3-contour": "^1",
     "d3-dispatch": "^1",
     "d3-drag": "^1",
-    "d3-dsv": "^1",
+    "d3-dsv": "^1.0.0",
     "d3-ease": "^1",
     "d3-fetch": "^1",
     "d3-force": "^1",
